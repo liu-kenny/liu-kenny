@@ -1,9 +1,3 @@
 Kenny Liu
-
-Education:
-Brooklyn Technical High School
-Northeastern University
-<<<<<<< Updated upstream
-=======
-
->>>>>>> Stashed changes
+Major: Computer science
+Expected Graduation: May 2028
