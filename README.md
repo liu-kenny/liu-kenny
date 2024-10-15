@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, this is my github profile.
 
 <!--
 **liu-kenny/liu-kenny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
